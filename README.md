@@ -1,7 +1,7 @@
-<h1> Phương pháp luận và nghiên cứu khoa học - CS519.O11 </h1>
+<h1> Phương pháp luận nghiên cứu khoa học - CS519.O11 </h1>
 <h2> Giới thiệu môn học </h2>
 <ul>
-<li>Tên môn học: Phương pháp luận và nghiên cứu khoa học</li>
+<li>Tên môn học: Phương pháp luận nghiên cứu khoa học</li>
 <li>Niên khóa: 2023-2024</li>
 <li>Giảng viên hướng dẫn: PGS.TS. Lê Đình Duy </li>
 </ul>
